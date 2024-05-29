@@ -1,0 +1,17 @@
+
+{
+  "Personnel": {
+    "Name": "Beste Avcı",
+    "Age": 28,
+    "Position": "Software Test Engineer",
+    "Department": "MBTT",
+    "Email": "beste@test.com",
+    "Address": {
+      "street": "Cumhuriyet Caddesi",
+      "city": "Aydın",
+      "state": "Kuşadası",
+      "postcode": "09400"
+    },
+    "Startdate": "2021-01-21"
+  }
+}

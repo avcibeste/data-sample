@@ -1,0 +1,15 @@
+
+<Personnel>
+    <Name>Beste Avcı</Name>
+    <Age>28</Age>
+    <Position>Software Test Engineer</Position>
+    <Department>MBTT</Department>
+    <Email>beste@test.com</Email>
+    <address>
+        <street>Cumhuriyet Caddesi</street>
+        <city>Aydın</city>
+        <state>Kuşadası</state>
+        <postcode>09400</postcode>
+    </address>
+    <startdate>2021-01-21</startdate>
+</Personnel>
